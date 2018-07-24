@@ -50,6 +50,8 @@ end
 end
 end
 
+def average(array)
+  
 
 def get_average_age_for_season(data, season)
   ages = []
@@ -62,7 +64,7 @@ def get_average_age_for_season(data, season)
       end
     end
   end
-  average[ages]
+  
 end
 
 
