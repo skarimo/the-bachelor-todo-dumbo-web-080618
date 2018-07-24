@@ -52,7 +52,7 @@ end
 
 def average(array)
   age_sum = array.reduce(:+)
-  total = length 
+  total = array.length 
   
   age_sum/total 
 end
